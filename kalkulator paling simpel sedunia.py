@@ -12,6 +12,6 @@ elif op == "/":
     if num2 != 0:
         print(num1 / num2)
     else:
-        print("Error: division by zero")
+        print("Error: ora iso bagi karu 0(* ￣︿￣)")
 else:
     print("Invalid operator")
